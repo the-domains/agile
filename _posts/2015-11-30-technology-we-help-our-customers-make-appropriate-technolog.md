@@ -1,16 +1,15 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://sahajsoft.com/'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: TECHNOLOGY  We help our customers make appropriate technology choices en route to solutioning for the problems at hand. The elegance of our technology solutions
-datePublished: '2015-11-30T15:44:44.678Z'
-dateModified: '2015-11-30T15:44:37.481Z'
+datePublished: '2015-11-30T15:49:18.085Z'
+dateModified: '2015-11-30T15:48:22.027Z'
 author: []
-title: ''
+title: What we do@Sahaj
 sourcePath: _posts/2015-11-30-technology-we-help-our-customers-make-appropriate-technolog.md
 published: true
 authors: []
@@ -19,6 +18,7 @@ publisher:
   domain: sahajsoft.com
   url: null
   favicon: null
+url: what-we-dosahaj/index.html
 _context: 'http://schema.org'
 _type: Article
 
@@ -29,4 +29,4 @@ DELIVERY We pride ourselves in delivering simple solutions to complex business n
 
 CONSULTING From designing the User Experience for greenfield applications, to introducing Lean & Agile methodologies in organizations and incorporating Continuous Delivery strategies across complex technology environments, our customers trust us not only for our expertise in recommending strategies, but also for our ability to work alongside them in jointly delivering business value. 
 
-ENABLEMENT We enable technology organizations raise their performance levels and become strong and reliable business enablers. Our offerings focus on simplifying existing software development processes through process optimisation, creating approaches for evolving technology architecture, coaching and handholding through implementation of Lean & Agile practices.
+ENABLEMENT We enable technology organizations raise their performance levels and become strong and reliable business enablers. Our offerings focus on simplifying existing software development processes through process optimization, creating approaches for evolving technology architecture, coaching and handholding through implementation of Lean & Agile practices.
