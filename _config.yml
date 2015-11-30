@@ -1,6 +1,6 @@
 name: Agile
 favicon: null
-layout_spectrum: 0.75821
+layout_spectrum: 0.48906
 typography_spectrum: 0.74508
 title: 'http://sahajsoft.com'
 cta:
@@ -22,8 +22,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.08696069824509323
+  brandStrength: 0.5
   lightness: 0.18094672239385545
   saturation: 0.31749772862531245
-  rhythmicContrast: 0.5383472952526063
+  rhythmicContrast: 0.25
 purpose: []
