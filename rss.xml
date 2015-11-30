@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Agile]]></title>
+        <description><![CDATA[Agile]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 30 Nov 2015 15:37:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sahaj Software Solutions]]></title>
+            <description><![CDATA[<article><h1>Sahaj Software Solutions</h1><p>The word Sahaj has its origins in the Sanskrit language and it represents simplicity. Our endeavour is to deliver outcomes which embrace aspects of simplicity represented by elegance, clarity and sophistication. We believe that this cannot happen without a strong commitment to understanding our customer's problems, a solution mindset and a commitment towards engineering excellence.</p><img src="http://sahajsoft.com/images/sahaj-meaning.png"></article>]]></description>
+            <link>http://sahajsoft.com/</link>
+            <guid isPermaLink="false">36d33838-c744-422b-aaae-364092e6ba35</guid>
+            <pubDate>Mon, 30 Nov 2015 15:37:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
