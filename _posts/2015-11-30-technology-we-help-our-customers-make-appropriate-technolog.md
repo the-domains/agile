@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: TECHNOLOGY  We help our customers make appropriate technology choices en route to solutioning for the problems at hand. The elegance of our technology solutions
-datePublished: '2015-11-30T15:49:18.085Z'
-dateModified: '2015-11-30T15:48:22.027Z'
+datePublished: '2015-11-30T15:49:58.092Z'
+dateModified: '2015-11-30T15:49:55.503Z'
 author: []
 title: What we do@Sahaj
 sourcePath: _posts/2015-11-30-technology-we-help-our-customers-make-appropriate-technolog.md
