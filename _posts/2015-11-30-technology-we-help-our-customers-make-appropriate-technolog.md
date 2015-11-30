@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://sahajsoft.com/'
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: TECHNOLOGY  We help our customers make appropriate technology choices en route to solutioning for the problems at hand. The elegance of our technology solutions
-datePublished: '2015-11-30T16:20:52.112Z'
-dateModified: '2015-11-30T16:20:47.634Z'
+datePublished: '2015-11-30T16:24:11.896Z'
+dateModified: '2015-11-30T16:20:56.113Z'
 author: []
 title: What we do@Sahaj
 sourcePath: _posts/2015-11-30-technology-we-help-our-customers-make-appropriate-technolog.md
